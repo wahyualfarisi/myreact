@@ -10,7 +10,7 @@
   },
   "homepage": "https://wahyualfarisi.github.io/myreact",
   "scripts": {
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d"
   },
   "eslintConfig": {
     "extends": "react-app"

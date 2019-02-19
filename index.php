@@ -35,13 +35,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
     <div class="w3-container">
       <p>
-        <pre><code><? $str = <<<'EOD'
-          <!-- your code here -->
-          $str = htmlspecialchars($str, ENT_HTML5, ENT_NOQUOTES);
-          $str = str_replace("&amp;hellip;", "&hellip;", $str);
-          echo($str);?>
-          
-        </code></pre>
+     
 
       </p>
       <div class="w3-row">
